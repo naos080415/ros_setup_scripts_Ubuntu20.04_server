@@ -8,6 +8,9 @@ sudo apt-get update
 sudo apt-get install -y git
 sudo apt-get install -y openssh-server
 
+# add apt install python3-roslaunch
+sudo apt install python3-roslaunch
+
 ### cloning this repository ###
 
 # if this script is executed from cloned repository,
